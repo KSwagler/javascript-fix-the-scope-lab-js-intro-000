@@ -1,7 +1,7 @@
 eavar animal = 'dog'
 
 function myAnimal() {
-  + var animal = 'dog' 
+  + var animal = 'dog'
   return animal
 }
 
